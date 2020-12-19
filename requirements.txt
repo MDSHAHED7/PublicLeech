@@ -4,4 +4,4 @@ hachoir
 Pillow
 pyrogram
 tgcrypto
-git+git://github.com/l1ving/youtube-dl
+youtube-dl
