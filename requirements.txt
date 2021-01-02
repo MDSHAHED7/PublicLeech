@@ -1,3 +1,4 @@
+appdirs
 aiohttp
 aria2p
 hachoir
